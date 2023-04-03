@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Eight Dollars",
+    "name": "Eight Dollars Nerd Emoji Edition",
     "version": "1.5",
-    "description": "Eight Dollars can help you tell the difference between actual verified accounts and twitter blue users.",
+    "description": "Eight Dollars can help you tell the difference between actual verified accounts and twitter blue NERDS.",
     "icons": {
         "16": "./assets/16.png",
         "32": "./assets/32.png",
