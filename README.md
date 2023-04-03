@@ -1,4 +1,18 @@
-﻿# eight-dollars
+﻿# eight-dollars-nerd-emoji-edition
+Your favourite browser extension for Twitter! now with the nerd emoji
+
+# Installation for THIS version
+
+
+
+
+
+
+
+
+
+
+# eight-dollars
 
 eight-dollars can help you tell the difference between actual verified accounts and twitter blue users. Just install the extension and see the difference.
 
@@ -9,7 +23,7 @@ Found this useful? [Buy us a $8 coffee here](https://www.buymeacoffee.com/eightd
 ![Some tweets](./assets/example.png)
 
 
-## Installation Instructions
+## Installation Instructions for the ORIGINAL version
 
 ### How to install on Chrome/Brave
 
